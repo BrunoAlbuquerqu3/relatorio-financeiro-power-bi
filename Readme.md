@@ -10,11 +10,11 @@
 
 ## 📊 Preview do Dashboard Sales Report
 
-![Página Principal do Relatório Financeiro](imagens/Dashboard_SalesReport.png)
+![Página Principal do Relatório Financeiro](Imagens/Dashboard_SalesReport.png)
 
 ## 📊 Preview do Dashboard report lucro
 
-![Página Principal do Relatório Financeiro](Report_lucro_detalhado.png)
+![Página Principal do Relatório Financeiro](Imagens/Report_lucro_detalhado.png)
 
 ## 📖 Descrição do Projeto
 
