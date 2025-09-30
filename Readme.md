@@ -8,9 +8,13 @@
 
 [**>> Acessar o Relatório Interativo <<**](https://app.powerbi.com/view?r=eyJrIjoiM2U2MGFiYWMtYTUxYy00ZTQwLWExZDEtN2YzZDcyNzAyYzYwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=75fdbcc67c6958786117)
 
-## 📊 Preview do Dashboard
+## 📊 Preview do Dashboard Sales Report
 
-![Página Principal do Relatório Financeiro](imagens/dashboard_preview.png)
+![Página Principal do Relatório Financeiro](imagens/Dashboard_SalesReport.png)
+
+## 📊 Preview do Dashboard report lucro
+
+![Página Principal do Relatório Financeiro](Report_lucro_detalhado.png)
 
 ## 📖 Descrição do Projeto
 
